@@ -2,7 +2,7 @@
 Hi!
 
 Disclaimer: I have only edited the two documents outside of the zip file.
-The zip contains a graphics library that my teacher designed.
+The zip contains a graphics library that my teacher designed. (Here's the course page: https://jimfix.github.io/csci385/index.html )
 A future iteration of this project may depend only on the internal javascript libraries,
 but we're not there quite yet!
 
